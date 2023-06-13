@@ -1,2 +1,1 @@
-# student-03-ebe678a84865
-test lab
+I am editing the README file. Adding some more details about the project description.
